@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to All Of Us, a public 100 Player Mod for Among Us
 
-You can use the [editor on GitHub](https://github.com/XtraCube/AllOfUs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+All Of Us is a mod that uses two separate mods to make the 100 Player experience for the end user as easy as possible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+- Install and Uninstall scripts
+- Ability to make 100 Player Lobbies
+- Custom Server management
+- Ability to use any color
+- Custom lobby tool for changing player settings easily
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XtraCube/AllOfUs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### How to Join
+Please visit the discord server [here](https://discord.gg/EsqnbVHKZk) for intrcutions on how to join
